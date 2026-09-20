@@ -15,9 +15,9 @@ Supporting internship task materials.
 
 ## 📚 Internship Materials
 
-The repository contains project assets and internship-related documents.
+The repository contains internship project assets, notebooks, and supporting materials.
 
-> **Privacy note:** The repository currently contains personal employment documents such as an offer letter. These should be removed or relocated before using the repository as a public professional portfolio.
+> **Privacy note:** Personal employment documents are intentionally excluded from the public repository.
 
 ## 🛠️ Technology
 
